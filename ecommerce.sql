@@ -28,3 +28,5 @@ create table Paiements (
 	FOREIGN KEY (id_commande)REFERENCES Commandes(id_commande),
 	montont_paye float 
 	);
+----------------------------------------------------------------------------------------------------------------------------------------------
+
